@@ -46,8 +46,7 @@ It generates a strong random password and allows users to copy it instantly.
 
 This is how the webpage looks:
 
-![Random Password Generator Output](output2.png.png)
-(output3.png.png)
+![Random Password Generator Output](screenshots/output2.png.png)
 
 ---
 
